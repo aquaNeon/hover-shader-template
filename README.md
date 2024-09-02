@@ -1,4 +1,4 @@
-# Vite + React + Three.js + GLSL
+# Vite + React base // Three.js + GLSL
 
 Simple fragment shader base template.
 
